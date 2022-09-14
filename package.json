@@ -166,5 +166,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhanmaj/myCypressLessons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhanmaj/myCypressLessons/issues"
+  },
+  "homepage": "https://github.com/shubhanmaj/myCypressLessons#readme",
   "description": ""
 }
